@@ -1,9 +1,9 @@
-{
+{ 
+  "homepage": "https://gg1627.github.io/Digital-Portfolio-V2/",
   "name": "acmwebportfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://gaelgarcia04.github.io/ACMWebPortfolio2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
